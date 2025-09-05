@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "c9464fee-0231-4626-b32c-16e9c49611cc",
+      "center_id": "936d4ccc-1e18-4ad2-a437-3823b2b43121",
+      "date": "2025.4.21",
+      "hour": "14.5.21",
+      "movie_name": "Woc",
+      "photo_name": "Hurricane_2025_4_21_14_5_21.jpg",
+      "product_id": "014e650d-1234-5678-90ab-abcdefabcdef",
+      "seats_occupied": 3
+    },
+    {
+      "id": "f43fb2e1-b855-44e9-8e45-7b2938af584a",
+      "center_id": "936d4ccc-1e18-4ad2-a437-3823b2b43121",
+      "date": "2025.3.30",
+      "hour": "22.46.52",
+      "movie_name": "homeland",
+      "photo_name": "Hurricane_2025_3_30_22_46_52.jpg",
+      "product_id": "73fc9829-6...",
+      "seats_occupied": 1
+    }
+  ],
+  "total": 2
+}
